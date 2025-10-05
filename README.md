@@ -12,6 +12,8 @@
 
 <p>No final, há também uma classe responsável por salvar as informações dos personagens criados. Para demonstrar o funcionamento, são criados dois NPCs.</p>
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Para executar o código, é preciso baixar o compilador do TypeScript.  
 Para isso, basta digitar no terminal:  
 `npm install -g typescript`  
