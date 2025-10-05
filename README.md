@@ -11,3 +11,14 @@
 <p>O projeto deveria conter pelo menos duas classes pai e duas classes filhas para cada uma delas. Nosso tema foi um RPG, no qual teríamos uma interface que definiria o que todo NPC teria que é seus atributos básicos, uma classe que definiria esses atributos junto com uma descrição da raça escolhida, que viria das classes filhas, e as classes filhas, que atribuiriam a raça, pontos base e uma breve descrição.</p>
 
 <p>No final, há também uma classe responsável por salvar as informações dos personagens criados. Para demonstrar o funcionamento, são criados dois NPCs.</p>
+
+Para executar o código, é preciso baixar o compilador do TypeScript.  
+Para isso, basta digitar no terminal:  
+`npm install -g typescript`  
+
+Em seguida, use o comando `tsc nome-do-arquivo.ts` para compilar o código TypeScript, o que criará um arquivo `.js`.  
+Depois, execute o arquivo compilado com o comando:  
+`node nome-do-arquivo.js`  
+
+**Observação:** é necessário ter o Node.js instalado para que o código funcione corretamente.
+
